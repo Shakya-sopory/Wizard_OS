@@ -1,0 +1,6 @@
+chroma_db/
+checkpoints/
+wizard_os_lora_*/
+*.safetensors
+*.jsonl
+__pycache__/

@@ -1,0 +1,9 @@
+streamlit
+chromadb
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+peft
+pandas
+openpyxl
